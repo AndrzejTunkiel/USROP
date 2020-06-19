@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T11:28:44.313Z" agent="5.0 (Windows)" etag="TULk0YhEqTB6IbPIO6k1" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-19T08:43:08.261Z" agent="5.0 (Windows)" etag="kve0my1Ome4rKxzNTVhk" version="13.2.6" type="github">
   <diagram id="Uebr5NLeJkoOpci3fid2" name="Page-1">
     <mxGraphModel dx="1422" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-16" value="&lt;div align=&quot;center&quot;&gt;Testing&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-16" value="Testing&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="385" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-15" value="&lt;div align=&quot;center&quot;&gt;Training&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-15" value="&lt;div align=&quot;center&quot;&gt;Available&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="340" y="10" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-CGLPSrm7_cf0FbsFtZ5-6" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Georgia;" parent="1" vertex="1">
@@ -43,10 +43,10 @@
         <mxCell id="-CGLPSrm7_cf0FbsFtZ5-14" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="410" y="190" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-17" value="&lt;div align=&quot;center&quot;&gt;Training&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-17" value="Available&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="605" y="10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-18" value="&lt;div&gt;Testing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-18" value="Testing&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="560" y="100" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-CGLPSrm7_cf0FbsFtZ5-19" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Georgia;" parent="1" vertex="1">
@@ -70,7 +70,7 @@
         <mxCell id="-CGLPSrm7_cf0FbsFtZ5-25" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="630" y="40" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-33" value="Training" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="-CGLPSrm7_cf0FbsFtZ5-33" value="Available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="250" y="45" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-CGLPSrm7_cf0FbsFtZ5-34" value="Testing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" parent="1" vertex="1">
