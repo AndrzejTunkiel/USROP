@@ -4,7 +4,9 @@ This is a repository for the Univerisity of Stavanger Rate of Penetration (USROP
 
 USROP dataset is distributed as-is under CC BY-NC-SA 4.0 license
 
-Current revision of the dataset is A
+Current revision of the dataset is A.
+
+Specific scenarios of evaluating ROP model performance are pending publication.
 
 ## Code
 
